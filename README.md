@@ -1,2 +1,1 @@
-# Intro-to-Software-Fundamentals
-A not-so-fun, half serious, course on the fundamentals of software and computer science
+A fun, half serious, and hardcore course on the fundamentals of developing software and computer science
